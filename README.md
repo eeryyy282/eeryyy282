@@ -2,7 +2,7 @@
 
 Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komputer. Di sini, Kamu akan menemukan berbagai proyek yang saya kerjakan dan pelajari, serta informasi tentang SAYA!
 
-[Test](https://gifdb.com/images/high/cute-patrick-star-spongebob-movie-fawjmaork655cni8.gif)
+(https://gifdb.com/images/high/cute-patrick-star-spongebob-movie-fawjmaork655cni8.gif)
 
 #### Tentang Saya
 
