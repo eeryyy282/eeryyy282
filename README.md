@@ -12,7 +12,7 @@ Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komput
 
 #### Yang dipelajari saat ini
 
-- 🚀 [Pembelajaran pemrograman berbasis web](https://github.com/eeryyy282/HTML-with-mr.lailyn): Pembelajaran dasar pemrograman website bersama Pak Lailyn!.
+- 🚀 [Pembelajaran Pemrograman berbasis Web](https://github.com/eeryyy282/HTML-with-mr.lailyn): Pembelajaran dasar pemrograman website bersama Pak Lailyn!.
 - 🛠️ [Website Berita Game dan Forum Diskusi Online](https://github.com/eeryyy282/juzairigame-news): Tugas proyek pembuatan website berita dan forum diskusi game.
 - 🌐 Akan segera lebih banyak yang akan saya pelajari!
 
