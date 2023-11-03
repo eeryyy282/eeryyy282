@@ -5,8 +5,8 @@ Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komput
 
 #### Tentang Saya
 
-- 📫 [Email](mailto:airiagustus@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-juzairi-safitli)
+- 📫 [Email](mailto:airiagustus82@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a/)
 - 📷 [Instagram](https://www.instagram.com/juzairi_safitli)
 
 
