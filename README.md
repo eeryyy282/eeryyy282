@@ -17,6 +17,7 @@ Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komput
 - 🔑 [Kriptografi Keamanan Sistem Informasi](https://github.com/eeryyy282/cryptography-with-mr-junaidi): Pembelajaran keamanan sistem infromasi bersama Pak Junaidi.
 - 👀 [Fundamental Algoritma dengan Menggunakan C++](https://github.com/eeryyy282/fundamental-algoritma-cpp): Pembelajaran terkait fundamental algoritma dengan menggunakan bahasa pemrograman c++.
 - 🎓[Curriculum Vitae saya 10 Tahun yang Akan Datang](https://github.com/eeryyy282/curriculum-vitae-juzairi-10-years-later): Mempelajari tata letak display dengan menggunakan CSS sambil berimajinasi terkait capaian masa depan 10 tahun yang akan datang.
+- 📲[Pembelajaran Pembuatan Aplikasi Android menggunakan Kotlin](https://github.com/eeryyy282/Belajar-Android-Mandiri): Mempelajari dan memahami pengembangan aplikasi android dengan menggunakan bahasa pemrograman kotilin.
 - 🌐 Akan segera lebih banyak yang akan saya pelajari!
 
 
