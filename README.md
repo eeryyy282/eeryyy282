@@ -1,6 +1,8 @@
 ### WELCOME di Profil Juzairi Safitli! 👋
 
-Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komputer. Di sini, Kamu akan menemukan berbagai proyek yang saya kerjakan dan pelajari, serta informasi tentang SAYA!
+Saya Muhammad Juzairi Safitli🫡 
+Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻
+Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia teknologi, serta informasi tentang saya 😱!
 
 
 #### Tentang Saya
@@ -18,7 +20,8 @@ Saya Muhammad Juzairi Safitli, seorang mahasiswa biasa dengan minat dalam komput
 - 👀 [Fundamental Algoritma dengan Menggunakan C++](https://github.com/eeryyy282/fundamental-algoritma-cpp): Pembelajaran terkait fundamental algoritma dengan menggunakan bahasa pemrograman c++.
 - 🎓[Curriculum Vitae saya 10 Tahun yang Akan Datang](https://github.com/eeryyy282/curriculum-vitae-juzairi-10-years-later): Mempelajari tata letak display dengan menggunakan CSS sambil berimajinasi terkait capaian masa depan 10 tahun yang akan datang.
 - 📲[Pembelajaran Pembuatan Aplikasi Android menggunakan Kotlin](https://github.com/eeryyy282/Belajar-Android-Mandiri): Mempelajari dan memahami pengembangan aplikasi android dengan menggunakan bahasa pemrograman kotilin.
-- 🌐 Akan segera lebih banyak yang akan saya pelajari!
+- 🌐 Segera lebih banyak yang akan saya pelajari!
+### *Never Stop Learning, until My Dream Coming!*
 
 
 
