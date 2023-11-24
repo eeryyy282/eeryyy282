@@ -1,4 +1,4 @@
-### WELCOME di Profil Juzairi Safitli! 👋
+### WELCOME👋
 
 Saya Muhammad Juzairi Safitli🫡 <br>
 Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻 <br>
