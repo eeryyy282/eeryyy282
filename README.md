@@ -4,11 +4,7 @@ Saya Muhammad Juzairi Safitli🫡 <br>
 Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻 <br>
 Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia teknologi, serta informasi tentang saya 😱!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeryyy282&layout=compact)
-
-
 #### Yang dipelajari saat ini
-
 - 🚀 [Pembelajaran Pemrograman berbasis Web](https://github.com/eeryyy282/HTML-with-mr.lailyn): Pembelajaran dasar pemrograman website bersama Pak Lailyn!.
 - 🛠️ [Website Berita Game dan Forum Diskusi Online](https://github.com/eeryyy282/juzairigame-news): Tugas proyek pembuatan website berita dan forum diskusi game.
 - 🔑 [Kriptografi Keamanan Sistem Informasi](https://github.com/eeryyy282/cryptography-with-mr-junaidi): Pembelajaran keamanan sistem infromasi bersama Pak Junaidi.
@@ -17,7 +13,7 @@ Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia tekno
 - 📲[Pembelajaran Pembuatan Aplikasi Android menggunakan Kotlin](https://github.com/eeryyy282/Belajar-Android-Mandiri): Mempelajari dan memahami pengembangan aplikasi android dengan menggunakan bahasa pemrograman kotilin.
 - 🌐 Segera lebih banyak yang akan saya pelajari!
 ### *Never Stop Learning, until My Dream Coming!*
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeryyy282&layout=compact)
 
 
 Jika  memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi Juzairi Safitli. Terima kasih telah mengunjungi profil GitHub saya!
