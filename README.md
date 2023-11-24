@@ -4,12 +4,7 @@ Saya Muhammad Juzairi Safitli🫡 <br>
 Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻 <br>
 Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia teknologi, serta informasi tentang saya 😱!
 
-
-#### Tentang Saya
-
-- 📫 [Email](mailto:airiagustus82@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a/)
-- 📷 [Instagram](https://www.instagram.com/juzairi_safitli)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeryyy2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Yang dipelajari saat ini
@@ -26,6 +21,10 @@ Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia tekno
 
 
 Jika  memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi Juzairi Safitli. Terima kasih telah mengunjungi profil GitHub saya!
+- 📫 [Email](mailto:airiagustus82@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a/)
+- 📷 [Instagram](https://www.instagram.com/juzairi_safitli)
+
 
 ---
 ©Juzairi Safitli
