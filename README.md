@@ -1,7 +1,7 @@
 ### WELCOME di Profil Juzairi Safitli! 👋
 
-Saya Muhammad Juzairi Safitli🫡 
-Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻
+Saya Muhammad Juzairi Safitli🫡 <br>
+Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻 <br>
 Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia teknologi, serta informasi tentang saya 😱!
 
 
