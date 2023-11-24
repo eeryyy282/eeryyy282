@@ -4,7 +4,7 @@ Saya Muhammad Juzairi Safitli🫡 <br>
 Seorang mahasiswa biasa dengan minat dalam komputer👨‍💻 <br>
 Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia teknologi, serta informasi tentang saya 😱!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeryyy2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugraghazra)](https://github.com/eeryyy282/github-readme-stats)
 
 
 #### Yang dipelajari saat ini
