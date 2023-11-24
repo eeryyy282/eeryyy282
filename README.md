@@ -14,9 +14,10 @@ Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia tekno
 - 🌐 Segera lebih banyak yang akan saya pelajari!
 ### *Never Stop Learning, until My Dream Coming!*
 
-#### Bahasa Pemrograman yang Dipelajari
+#### Bahasa Pemrograman yang Sering Saya Gunakan
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeryyy282&hide_progress=true)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eeryyy282)](https://github.com/eeryyy282/github-readme-stats)
 
 Jika  memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi Juzairi Safitli. Terima kasih telah mengunjungi profil GitHub saya!
 - 📫 [Email](mailto:airiagustus82@gmail.com)
