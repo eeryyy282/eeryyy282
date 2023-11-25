@@ -11,6 +11,7 @@ Di sini, Kamu akan menemukan berbagai hal yang saya pelajari terkait dunia tekno
 - 👀 [Fundamental Algoritma dengan Menggunakan C++](https://github.com/eeryyy282/fundamental-algoritma-cpp): Pembelajaran terkait fundamental algoritma dengan menggunakan bahasa pemrograman c++.
 - 🎓[Curriculum Vitae saya 10 Tahun yang Akan Datang](https://github.com/eeryyy282/curriculum-vitae-juzairi-10-years-later): Mempelajari tata letak display dengan menggunakan CSS sambil berimajinasi terkait capaian masa depan 10 tahun yang akan datang.
 - 📲[Pembelajaran Pembuatan Aplikasi Android menggunakan Kotlin](https://github.com/eeryyy282/Belajar-Android-Mandiri): Mempelajari dan memahami pengembangan aplikasi android dengan menggunakan bahasa pemrograman kotilin.
+- 🖼️[Manipulasi Citra Gambar dengan Menggunakan Modul Open CV Python](https://github.com/eeryyy282/open-cv-py-with-mr.huda): Mempelajari dan memahami terkait manipulasi citra gambar dengan menggunakan Modul Open CV Python.
 - 🌐 Segera lebih banyak yang akan saya pelajari!
 ### *Never Stop Learning, until My Dream Coming!*
 
