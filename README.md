@@ -1,8 +1,9 @@
-### Welcome! 
+### Welcome! 👋
 Muhammad Juzairi Safitli is here! an ordinary technology student who is studying technology and is interested in programming.
 
-<b>Never stop learning until my dream comes true! Let's begin with a short nap and conclude it with a big snap <b> <br> | Mobile Development Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka <br> <br>
-| Let's learn together and share with each other for an even more beautiful day tomorrow
+<b>Never stop learning until my dream comes true! Let's begin with a short nap and conclude it with a big snap <b> <br> <br>
+🧑‍💻 | Mobile Development Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka <br>
+🤔 | Let's learn together and share with each other for an even more beautiful day tomorrow <br>
 
 ### Github Statistic
 <p align="left">
@@ -13,6 +14,6 @@ Muhammad Juzairi Safitli is here! an ordinary technology student who is studying
 </p>
 
 ### Reach me on
-- <a href="www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a">LinkedIn</a>
-- <a href="https://www.instagram.com/juzairi_safitli/">Instagram</a>
-- airiagustus82@gmail.com
+<img align="left" alt="Linkedin" title="Linkedin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/><a href="www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a">LinkedIn</a> <br>
+<img align="left" alt="Instagram" title="Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/><a href="https://www.instagram.com/juzairi_safitli/">Instagram</a> <br>
+<img align="left" alt="gmail" title="gmail" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/>airiagustus82@gmail.com
