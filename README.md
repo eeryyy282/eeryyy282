@@ -1,7 +1,8 @@
 ### Welcome! 
-I am Muhammad Juzairi Safitli, an ordinary technology student who is studying technology and is interested in programming.
+Muhammad Juzairi Safitli is here! an ordinary technology student who is studying technology and is interested in programming.
 
-<b>Never stop learning until my dream comes true! <br> | Mobile Development Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka<b>
+<b>Never stop learning until my dream comes true! Let's begin with a short nap and conclude it with a big snap <b> <br> | Mobile Development Student Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+| Let's learn together and share with each other for an even more beautiful day tomorrow!|
 
 ### Github Statistic
 <p align="left">
