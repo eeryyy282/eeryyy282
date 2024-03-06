@@ -12,7 +12,7 @@ Muhammad Juzairi Safitli is here! an ordinary technology student who is studying
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eeryyy282&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<br>
 ### Reach me on
 <img align="left" alt="Linkedin" title="Linkedin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/><a href="https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a/">LinkedIn</a> <br> <br>
 <img align="left" alt="Instagram" title="Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/><a href="https://www.instagram.com/juzairi_safitli/">Instagram</a> <br><br>
