@@ -1,7 +1,11 @@
 <div align="center">
 
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hello!+👋😁;+Welcome+to+my+profile+😆;+Android+Mobile+Developer+🧑‍💻;" />
-Muhammad Juzairi Safitli (Airi) is here! an ordinary technology student who is studying technology and is interested in programming.
+
+![Profile Views](https://komarev.com/ghpvc/?username=eeryyy282)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhammad-juzairi-safitli-6226a228a)
+<br>
+Muhammad Juzairi Safitli (Airi) is here! <br> An ordinary technology student who is studying technology and is interested in programming.
 
 <br>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Never stop learning until my dream comes true! Let's begin with a short nap and conclude it with a big snap&style=style=flat&color=8A2BE2" alt="Star Badge" height="25px"/> <br>
