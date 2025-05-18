@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hello!+👋;I'm+Airi+Safitli;Android+Mobile+Developer+🧑‍💻" alt="Welcome" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hello!+👋;I'm+Juzairi+Safitli;Android+Mobile+Developer+🧑‍💻" alt="Welcome" />
   
 ![Profile Views](https://komarev.com/ghpvc/?username=eeryyy282)
 
