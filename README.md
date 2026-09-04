@@ -1,15 +1,11 @@
 # Muhammad Juzairi Safitli
 
-Some developers like their code loud, their setups bright, and their profiles full of emojis. I prefer mine like my workstation: all AMD, stealth black, and quietly executing exactly what it needs to do.
-
-I am a Software Engineer and Game Developer based in Jambi. My foundation is in Information Systems, and I currently manage data operations and IT infrastructure as an Asisten Pranata Komputer at BPS Kota Jambi.
-
-But that’s just the metadata.
+I am a Software Engineer and Game Developer based in Jambi. With a strong foundation in Information Systems, I currently manage data operations and IT infrastructure as an Asisten Pranata Komputer at BPS Kota Jambi.
 
 ### How I Operate
-I build software the exact same way I approach video games—with the mindset of a 100% completionist. Just as I rely on interactive maps to track down every hidden detail in an open world, I write code to trace and cover every edge case. Whether I'm structuring a complex Android Clean Architecture or designing educational game mechanics, I aim for flawless execution. 
+I build software the exact same way I approach video games: with the mindset of a 100% completionist. Just as I rely on interactive maps to track down every hidden detail in an open world, I write code to trace and cover every edge case. Whether I'm structuring a complex Android application using Clean Architecture or designing educational game mechanics, I aim for thorough execution.
 
-And for the record: if an engine allows it, I will always map my controls to a gamepad over a mouse and keyboard.
+And for the record: if a game or engine allows it, I will always map my controls to a gamepad over a mouse and keyboard.
 
 ### Under the Hood
 - **Core Languages:** Kotlin, Node.js, Python, and SQL.
